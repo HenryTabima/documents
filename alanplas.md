@@ -12,3 +12,7 @@ El carrito de compras solo se conecta con wrodpress en el backend, para enviar u
 
 ## Autor
 [Henry Tabima Giraldo](https://henrytabima.com) 
+
+## Screenshot
+
+![Screenshot alanplas](/images/alanplas/alanplas.png)
